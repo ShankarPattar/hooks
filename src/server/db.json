@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "id": "react hooks",
+      "title": "react hooks",
+      "content": "React content here it goes brother from another mother",
+      "username": "abcd"
+    },
+    {
+      "title": "guru",
+      "content": "edu",
+      "username": "aa",
+      "id": "rPohJ1g"
+    },
+    {
+      "title": "bro",
+      "content": "ghbgfnghmgm,gjgjasdaevfbmngnm",
+      "username": "aa",
+      "id": "GnaEDBT"
+    },
+    {
+      "title": "here ",
+      "content": "bro",
+      "username": "aa",
+      "id": "4Y-8Fg5"
+    },
+    {
+      "title": "hey",
+      "content": "look here",
+      "username": "aa",
+      "id": "m4wPtqK"
+    },
+    {
+      "title": "Redo",
+      "content": "Redo",
+      "username": "aa",
+      "id": "B6CAMQk"
+    },
+    {
+      "title": "her",
+      "content": "xcxcv",
+      "username": "aa",
+      "id": "mU94zBn"
+    },
+    {
+      "title": "ass",
+      "content": "bvnbvn",
+      "username": "aa",
+      "id": "ypclFF2"
+    },
+    {
+      "title": "ass bnbn",
+      "content": "bvnbvn bnmbnmj awrewr",
+      "username": "aa",
+      "id": "HB58ld7"
+    },
+    {
+      "title": "bcvbcvb",
+      "content": "gfhgfhgf",
+      "username": "aa",
+      "id": "mAZ1DgD"
+    },
+    {
+      "title": "bnbvn",
+      "content": "sdfsdf",
+      "username": "aa",
+      "id": "BEnNflp"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "aa",
+      "password": "bb"
+    },
+    {
+      "username": "xcsfds",
+      "password": "",
+      "id": 3
+    },
+    {
+      "user": "xcvgfdg",
+      "password": "",
+      "id": 4
+    },
+    {
+      "user": "vxcsdfsd",
+      "password": "",
+      "id": 5
+    },
+    {
+      "user": "zxc",
+      "password": "cx",
+      "id": 6
+    },
+    {
+      "user": "vcx",
+      "password": "vcxcv",
+      "id": 7
+    },
+    {
+      "user": "gxcvxcb",
+      "password": "cvbcf",
+      "id": 8
+    },
+    {
+      "username": "dd",
+      "password": "bb",
+      "repeatPassword": "cc",
+      "id": 9
+    },
+    {
+      "username": "g",
+      "password": "k",
+      "repeatPassword": "m",
+      "id": 10
+    },
+    {
+      "username": "h",
+      "password": "h",
+      "repeatPassword": "m",
+      "id": 11
+    },
+    {
+      "username": "n",
+      "password": "d",
+      "repeatPassword": "w",
+      "id": 12
+    }
+  ],
+  "themes": [
+    {
+      "id": 1,
+      "primaryColor": "deepskyblue",
+      "secondaryColor": "coral"
+    },
+    {
+      "id": 2,
+      "primaryColor": "orchid",
+      "secondaryColor": "mediumseagreen"
+    },
+    {
+      "id": 3,
+      "primaryColor": "darkslategray",
+      "secondaryColor": "slategray"
+    }
+  ]
+}
